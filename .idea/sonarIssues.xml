@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/dice-transformations-scala.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project/nbs-crm/dice-spark/src/main/scala/com/epam/nbs/spark/ConfigLoader.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mvn-scala-java.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/Example.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
