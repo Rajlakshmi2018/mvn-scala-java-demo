@@ -8,12 +8,52 @@
             <set />
           </value>
         </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/dice-transformations-scala.iml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/main/scala/com/epam/nbs/spark/ConfigLoader.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/main/scala/com/epam/nbs/spark/DICETransformation.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/main/scala/com/epam/nbs/spark/DICETransformationContext.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/test/scala/com/epam/nbs/spark/ConfigLoaderDiceTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/test/scala/com/epam/nbs/spark/transformation/ToDateTimeConversionDiceTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/test/scala/com/epam/nbs/spark/transformation/edm2dm/DmUtilsTest.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/nbs-crm-project-1/nbs-crm/nbs-crm/dice-spark/src/test/scala/utils/DiceTestBase.scala">
           <value>
             <set />
           </value>
